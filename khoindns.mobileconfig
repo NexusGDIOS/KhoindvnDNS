@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			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
+			/UPSiQAAAABJRU5ErkJggg==
+			</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Esign Kh∆°indvn</string>
+			<key>PayloadDisplayName</key>
+			<string>Bio Khoindvn</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+			<key>PayloadOrganization</key>
+			<string>khoindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://khoindvn2.bio.link</string>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://gotmmm9atx.cloudflare-gateway.com/dns-query</string>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>ocsp.apple.com</string>
+					<string>ocsp2.apple.com</string>
+					<string>valid.apple.com</string>
+					<string>crl.apple.com</string>
+					<string>certs.apple.com</string>
+					<string>appattest.apple.com</string>
+					<string>vpp.itunes.apple.com</string>
+				</array>
+			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Adware Filter ‚úó (DoH)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.4A9BFC82-4439-4596-940C-C923E32E7CC1</string>
+			<key>PayloadOrganization</key>
+			<string>Kh∆°indvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>4A9BFC82-4439-4596-940C-C923E32E7CC1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://gotmmm9atx.cloudflare-gateway.com/dns-query</string>
+			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Adware Filter ‚úì (DoH)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.A6C06555-7F82-40CC-9507-2518A95217EA</string>
+			<key>PayloadOrganization</key>
+			<string>Kh∆°indvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A6C06555-7F82-40CC-9507-2518A95217EA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>DNS Profile</string>
+	<key>PayloadDisplayName</key>
+	<string>Kh∆°inDNS</string>
+	<key>PayloadIdentifier</key>
+	<string>khoindvn.cloudflare.warp.com.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Kh∆°indvn</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2F2B145E-24B5-4AAA-ACA1-623E73361AAE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+      †Ç
+0ÇQ0Ç9†|Øi
+%∑9˛{õDz¡x≈Ó0	*ÜHÜ˜ 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0200219181347Z300220000000Z0u1D0BU;Apple Worldwide Developer Relations Certification Authority10	UG310U
+
+Apple Inc.10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÿıâ¸®Yá«Lë.-Vê”x§0È•HÔCø-Ñ˚$]EÂÎY6\Tdûlb-¥∆ó Ã<ˆ÷ë¸Â¶j¥y’gÀ¨È?·ÑºGfé9¢Ë¥IÌ:“·`zéìå ¿⁄¿É–„˘ë÷ßå»¡s‚ÆF—bùí®ê`7}hñÕç‡¸õ˙xª„{Ø-›[˛ÄY#u∏¡ÌÂ4Œ˛"µûI∞ÂUøèÑ¢<®∫≈Üï‰ …ü–Ã≥:{÷\ùÎGÆµ-åiM@–KL;ûç!±¨.CT0Œ¡äÜîòKﬂj?˛˚Æó¬x
+0‡_T;I∑% 7Ç“Vó•RI|`8õÔ £ÅÔ0ÅÏ0Uˇ0ˇ 0U#0Ä+–iGîv	˛Ùkç.@¶˜GM^0D+80604+0Ü(http://ocsp.apple.com/ocsp03-applerootca0.U'0%0#†!†Ühttp://crl.apple.com/root.crl0U	˛¿ê˘Ød
+íπ&(cóÏß≤0Uˇ0
+*ÜHÜ˜cd 0	*ÜHÜ˜ Ç ≠eËˆ‡ÅwDGBæ_•9 Íb©˝≈ê…s’ûõ–™ççÀÌœl(@[«U$A¯¸œ¡µ#È‹ÏÒo Äw¬ƒaI%gØ 9%≠”„zÃ3(.°W@s˙Ê\ÆQ)Ì„ÖOa‹2ãw–D ]r1FúÆõ@˙Ù‡”>˙/åfüóƒTYÔ“HÙôI`Y«›î—¿¡lx!ÔÎ;lôÇKR`8µ9ÇmÏR1SæëLIItè¶QÀÑGNu'nΩ˘“\Û¬l	6‚d‰¬7’Íjî™©€˛ˆögãÔ+∏™IÉØœÀºÈœÍïq∞¥E¢ÃÂá™
+√A:y\⁄P4ùï;0Çƒ0Ç¨†xYXZ°"Ä˛V),›Lí0	*ÜHÜ˜ 0u1D0BU;Apple Worldwide Developer Relations Certification Authority10	UG310U
+
+Apple Inc.10	UUS0240731042654Z250731042653Z0Åä10
+	í&âìÚ,d
+CQ462W7SXX1402U+Apple Development: Vu Van Khoi (5K5W98L6TR)10U
+S3GRXY3MYY10U
+Vu Van Khoi10	UVN0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÎD‡5ÿHë‡UÎ£Îhh~√h˝.¯≤j¯“∞*„
+°W[J¸ÕG9Ÿ,ÀΩX∂Á“ïéD=ï˘té˜ö+6<øÌ>êGÿ9¿WË.K∫ız#Ã¥À§Ω˜âæed›wT7√zöÀ)°Äá”ﬁ_–"Ú òËKq¬uÍ^<ar∑∑»óHá<‡f›∑tÇµ`&˜∫F"≠
+xhëg|ö‚ä}:ûâ"G◊M	?up∏Ùß+h!Ì;Xcw»ût[ß¬K›>˝*‚¥ÕÈ:è\M‰òQ‚Î#;Ë¸(^†Y≥ΩàÏMµ“’üZ(NP±	kB/´º¶’Mm¬√ £Ç80Ç40Uˇ0 0U#0Ä	˛¿ê˘Ød
+íπ&(cóÏß≤0p+d0b0-+0Ü!http://certs.apple.com/wwdrg3.der01+0Ü%http://ocsp.apple.com/ocsp03-wwdrg3040ÇU Ç0Ç0Ç	*ÜHÜ˜cd0Åˇ0Å√+0Å∂Å≥Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.07++https://www.apple.com/certificateauthority/0U%ˇ0
++0U¢˙B,: IP@∆kÇ[)¸™<]R'0UˇÄ0
+*ÜHÜ˜cdˇ 0
+*ÜHÜ˜cdˇ 0	*ÜHÜ˜ Ç V?w*m Ωl=Ω	zè√rä[{›ç7ê K˚L#oÁÆﬂúµÖÁqãåZ4Ì€’∏ “@‘È¸©á0˘®e‚o∑LZØ$¬#˛^BƒRñÉYU<Tˆ˛◊v´iGi~‡≥ﬂ.Q≥aÇ∆trvõe/`yæUX” ~E√t]ö°√øÆüMê,◊^ÖÕú<nnﬁ†≥ãé&E;K/Hx[ü$æWõØc TyÁÏ·ÿÉ©âfıg¶¿Ê«ﬁN)Ñ“º•({¯A–π≈˚;´˝ÿ#äÊ∂Ü# æÏƒ©	®?íﬁc√ß^ıj ¢AVßòxød*Üƒa»«∂˛1Ç±0Ç≠0Åâ0u1D0BU;Apple Worldwide Developer Relations Certification Authority10	UG310U
+
+Apple Inc.10	UUSxYXZ°"Ä˛V),›Lí0	+ 0	*ÜHÜ˜ Ç Sg/’«„÷0Ñ_%¸aıﬂ•wD§¡≤Ï©‘™ˆÇ$‚-π√¯u{“⁄ø¬©ubqä‹˘N7ÁmH€{<v„Ò>5Ø“u“}ÆÕ&W«√‘d“\5vô é.HnºK#¨«¢B˚0ß≤œçIPaÚÿKTC ØÄ—‡4˙óR…K“aI vß>sçÄ§õJ^Ü{ª‰…P¬¢¨Ã◊@:çä‹›q~±$Ôa‡óÄ.{ª r˜Vè?”ïiÕ_®p4>(Ï√‹™∞ŒP‹N§—ó	n¯Q∂ÈûÖlìç@+õc≈#¥PºípX¬Ü≈∑ {ÕjåXÿ¿`Æ€±‰6º˚ƒÜ¥·      
